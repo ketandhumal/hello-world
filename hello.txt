@@ -1,1 +1,6 @@
-Hello, Wellcome to Cloudthat DevOps Training!
+:wq
+
+
+
+
+Hello, Welcome to Cloudthat DevOps Training!
